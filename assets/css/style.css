@@ -25,7 +25,7 @@ body{
     height:75px;
     width: 240px;
     background-color: #4aaaa5;
-    font-family: 'Oswald', sans-serif;
+    font-family: 'Open+sans', sans-serif;
 }
 
 li:hover {
@@ -69,7 +69,7 @@ ul
 
 #indexfull {
     height:520px;
-    background-image: url("../images/concrete_seamless.png");
+    background-image: url("../images/background.png");
     background-size: all;
     background-attachment: scroll;
 }
@@ -98,7 +98,7 @@ ul
 
 #contactfull {
     height:550px;
-    background-image: url("../images/concrete_seamless.png");
+    background-image: url("../images/background.png");
     background-size: all;
     background-attachment: scroll;
 }
@@ -126,7 +126,7 @@ ul
 
 #portfoliofull {
     height:700px;
-    background-image: url("../images/concrete_seamless.png");
+    background-image: url("../images/background.png");
     background-size: all;
     background-attachment: scroll;
 }
@@ -175,7 +175,7 @@ footer {
     padding-top: 0;
     color: #4aaaa5;
     font-size: 28px;
-    font-family: 'Oswald', sans-serif;
+    font-family: 'Open+Sans', sans-serif;
 }
 
 .aboutme{
@@ -183,7 +183,7 @@ footer {
     padding-top: 0;
     color: #4aaaa5;
     font-size: 28px;
-    font-family: 'Oswald', sans-serif;
+    font-family: 'Open+Sans', sans-serif;
 }
 
 .portfolio{
@@ -191,7 +191,7 @@ footer {
     padding-top: 0;
     color: #4aaaa5;
     font-size: 28px;
-   font-family: 'Oswald', sans-serif;
+   font-family: 'Open+Sans', sans-serif;
 }
 
 .connect{
@@ -199,7 +199,7 @@ footer {
     padding-top: 0;
     color: #4aaaa5;
     font-size: 24px;
-    font-family: 'Oswald', sans-serif;
+    font-family: 'Open+Sans', sans-serif;
     text-align: center;
 }
 
